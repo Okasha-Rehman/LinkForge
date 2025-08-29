@@ -1,5 +1,6 @@
 node_modules/
-db/
+db/*
+!db/.gitkeep
 .env
 env/*.env
 secrets/
