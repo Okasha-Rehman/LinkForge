@@ -1,0 +1,8 @@
+node_modules/
+db/
+.env
+env/*.env
+secrets/
+*.log
+*.tmp
+

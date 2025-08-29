@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+.DS_Store
+.git
+.gitignore
+
+# app-local db junk we don’t want inside images
+db
+*.sqlite
+*.sqlite3
+
+.vscode
+.idea
+Thumbs.db
+
