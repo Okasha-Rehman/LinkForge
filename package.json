@@ -1,7 +1,7 @@
 {
-  "name": "kutt",
-  "version": "3.2.3",
-  "description": "Modern URL shortener.",
+  "name": "linkforge",
+  "version": "1.0.0",
+  "description": "Cloud-native URL shortener platform.",
   "main": "./server/server.js",
   "scripts": {
     "dev": "node --watch-path=./server --watch-path=./custom server/server.js",
@@ -12,17 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thedevs-network/kutt.git"
+    "url": "git+https://github.com/Okasha-Rehman/LinkForge"
   },
   "keywords": [
-    "url-shortener"
+    "url-shortener",
+    "linkforge",
+    "cloud-native",
+    "devops"
   ],
-  "author": "Pouria Ezzati <ezzati.upt@gmail.com>",
+  "author": "Okasha Rehman <okasharehman6000@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thedevs-network/kutt/issues"
+    "url": "https://github.com/Okasha-Rehman/LinkForge/issues"
   },
-  "homepage": "https://github.com/thedevs-network/kutt#readme",
+  "homepage": "https://github.com/Okasha-Rehman/LinkForge",
   "dependencies": {
     "bcryptjs": "2.4.3",
     "better-sqlite3": "11.8.1",
